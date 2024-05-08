@@ -64,6 +64,7 @@ print(classification_rep)
 <H3>Output:</H3>
 
 <img src = "https://github.com/Adhithyaram29D/EX-6-NN/assets/119393540/9910c328-aa00-4773-863c-af3ac1f9a521" width="200">
+<br>
 <img src = "https://github.com/Adhithyaram29D/EX-6-NN/assets/119393540/d3a58d45-7d76-4ec7-a70c-bd0de5cb784f" width="300">
 <img src = "https://github.com/Adhithyaram29D/EX-6-NN/assets/119393540/5294aa69-37ed-4862-bf83-89cc994d5888" width="300">
 
